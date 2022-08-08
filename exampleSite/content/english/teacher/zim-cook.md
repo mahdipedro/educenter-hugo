@@ -35,7 +35,6 @@ contact:
 - name: 1313 Boulevard Cremazie,Quebec
   icon: ti-location-pin
   link: "#"
-type: teacher
 
 ---
 ### About Me
